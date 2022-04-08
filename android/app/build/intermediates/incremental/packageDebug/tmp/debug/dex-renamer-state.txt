@@ -1,0 +1,4 @@
+#Fri Mar 18 18:29:36 BRT 2022
+base.0=D\:\\desenv\\projetos\\caspc\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
